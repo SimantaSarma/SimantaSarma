@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 👯 I’m looking to collaborate on **Open Source projects.**
 
 - 💬 Ask me about **LinkedIn personal branding.**
 
